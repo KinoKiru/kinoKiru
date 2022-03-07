@@ -1,8 +1,8 @@
-<table>
+<table style="border-collapse: collapse;">
 <tr>
   <td>
 <a href="https://github.com/KinoKiru/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KinoKiru&show_icons=true&theme=dracula" />
+  <img align="center" width="600px" src="https://github-readme-stats.vercel.app/api?username=KinoKiru&show_icons=true&theme=dracula" />
 </a>
   </td>
 <td>

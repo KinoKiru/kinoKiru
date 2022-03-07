@@ -7,7 +7,7 @@
   </td>
 <td>
 <a href="https://github.com/KinoKiru/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinoKiru&layout=compact" />
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinoKiru&layout=compact&theme=dracula" />
 </a>
   </td>
   </tr>
